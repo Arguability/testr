@@ -1,5 +1,5 @@
 {
-    "name": "Catcord",
+    "name": "CozyCatCord",
     "description": "Catcord is a theme for Discord because why not",
     "authors": [
         {
@@ -93,7 +93,7 @@
             "#572f39"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
-            "#f2d8de"
+            "#FAC51A"
         ],
         "CHANNEL_ICON": [
             "#d1b6bd"
