@@ -1,5 +1,5 @@
 {
-    "name": "Catcord",
+    "name": "CozyCatCord",
     "description": "Catcord is a theme for Discord because why not",
     "authors": [
         {
@@ -39,31 +39,31 @@
             "#ab969c"
         ],
         "BACKGROUND_PRIMARY": [
-            "#572f39"
+            "#2B2A27"
         ],
         "BACKGROUND_SECONDARY": [
-            "#6A6262"
+            "#2B2A27"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#6A6262"
+            "#2B2A27"
         ],
         "BACKGROUND_TERTIARY": [
-            "#4A4339"
+            "#2B2A27"
         ],
         "BACKGROUND_ACCENT": [
-            "#965163"
+            "#FAC51A"
         ],
         "BACKGROUND_FLOATING": [
-            "#723e4b"
+            "#FAC51A"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#572f39"
+            "#2B2A27"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#723e4b"
+            "#52514B"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#723e4b"
+            "#52514B"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
             "#572f39"
