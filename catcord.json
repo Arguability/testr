@@ -1,5 +1,5 @@
 {
-    "name": "CozyCatCord",
+    "name": "Catcord",
     "description": "Catcord is a theme for Discord because why not",
     "authors": [
         {
@@ -66,10 +66,10 @@
             "#52514B"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
-            "#572f39"
+            "#2B2A27"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#572f39"
+            "#2B2A27"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
             "#8f4f5f"
@@ -84,13 +84,13 @@
             "transparent"
         ],
         "SCROLLBAR_AUTO_THUMB": [
-            "#572f39"
+            "#2B2A27"
         ],
         "SCROLLBAR_AUTO_TRACK": [
-            "#572f39"
+            "#2B2A27"
         ],
         "KEYBOARD": [
-            "#572f39"
+            "#2B2A27"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
             "#FAC51A"
@@ -102,24 +102,24 @@
             "#d1b6bd"
         ],
         "CHAT_BACKGROUND": [
-            "#572f39"
+            "#2B2A27"
         ]
     },
     "rawColors": {
-        "PRIMARY": "#572f39",
+        "PRIMARY": "#2B2A27",
         "PRIMARY_100": "#f2d8de",
         "PRIMARY_200": "#d1b6bd",
         "PRIMARY_300": "#eb3f6a",
         "PRIMARY_360": "#d1b6bd",
         "PRIMARY_400": "#eb3f6a",
         "PRIMARY_500": "#723e4b",
-        "PRIMARY_600": "#572f39",
-        "PRIMARY_630": "#572f39",
-        "PRIMARY_660": "#572f39",
-        "PRIMARY_700": "#572f39",
-        "PRIMARY_800": "#572f39",
-        "PRIMARY_900": "#572f39",
-        "YELLOW_300": "#FAC51A",
+        "PRIMARY_600": "#2B2A27",
+        "PRIMARY_630": "#2B2A27",
+        "PRIMARY_660": "#2B2A27",
+        "PRIMARY_700": "#2B2A27",
+        "PRIMARY_800": "#2B2A27",
+        "PRIMARY_900": "#2B2A27",
+        "YELLOW_300": "#2B2A27",
         "BRAND_260": "#eb3f6a",
         "BRAND_360": "#e35f80",
         "BRAND_500": "#eb3f6a",
