@@ -24,19 +24,19 @@
             "#FAC51A"
         ],
         "TEXT_LINK": [
-            "#ff8b39"
+            "#FAC51A"
         ],
         "INTERACTIVE_NORMAL": [
-            "#d1b6bd"
+            "#FAC51A"
         ],
         "INTERACTIVE_HOVER": [
-            "#DCDDDE"
+            "#FFF093"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#f2d8de"
+            "#FAC51A"
         ],
         "INTERACTIVE_MUTED": [
-            "#ab969c"
+            "#FAC51A"
         ],
         "BACKGROUND_PRIMARY": [
             "#2B2A27"
@@ -72,13 +72,13 @@
             "#2B2A27"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#8f4f5f"
+            "#ff8b39"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#723e4b"
+            "#ff8b39"
         ],
         "SCROLLBAR_THIN_THUMB": [
-            "#723e4b"
+            "#ff8b39"
         ],
         "SCROLLBAR_THIN_TRACK": [
             "transparent"
